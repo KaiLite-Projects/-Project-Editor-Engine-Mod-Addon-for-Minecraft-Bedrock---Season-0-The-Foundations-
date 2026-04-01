@@ -29,6 +29,6 @@ Day 0 -> Writing Phase
 This is the official beginning of my Project which has been started since March 31, 2026 as a Lite Version
 
 [> Hashtags:
-#Minecraft #EditorEngine #Mod #Add-on #DevlogSeries0 #ArtZieStylerStudio 
+#Minecraft #EditorEngine #Mod #Add-on #DevlogSeries0 #ArtZieStylerStudio
 
 √c : that's it all for today's updates after March 31! see ya for tomorrow updates!
