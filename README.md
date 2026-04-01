@@ -1,7 +1,7 @@
 # -Project-Editor-Engine-Mod-Addon-for-Minecraft-Bedrock---Season-0-The-Foundations-
 Forcing myself to create my first Minecraft Mod Add-on from Zero Experience of Coding
 
-[ Project Editor Engine Mod Add-on for Minecraft Bedrock ]
+[ Project: Editor Engine Mod Add-on for Minecraft Bedrock ]
 
 > Devlog Series 0 - The Foundation
 
@@ -10,7 +10,8 @@ From zero coding experience -> building a cinematic engine inside Minecraft Bedr
 
 [> Introduction:
 Hi, I’m KaiLite - 2D -> 3D Concept Artist, 3D Modeler, and 3D Cinematic Animator.
-Creator of this Mod Add-on to bring custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
+
+I'm a Creator of this Mod Add-on bringing custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
 • 3D Cinematic Animations
 • Timelapse Builds
 • Story-driven Experiences
@@ -30,4 +31,4 @@ This is the official beginning of my Project which has been started since March 
 [> Hashtags:
 #Minecraft #EditorEngine #Mod #Add-on #DevlogSeries0 #ArtZieStylerStudio 
 
-√c : that's it all for today's updates after March 31! see ya for tomorrow updates
+√c : that's it all for today's updates after March 31! see ya for tomorrow updates!
