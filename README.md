@@ -11,7 +11,7 @@ From zero coding experience -> building a cinematic engine inside Minecraft Bedr
 [> Introduction:
 Hi, I’m KaiLite - 2D -> 3D Concept Artist, 3D Modeler, and 3D Cinematic Animator.
 
-I'm a Creator of this Mod Add-on bringing custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
+I'm the Creator of this Mod Add-on bringing custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
 • 3D Cinematic Animations
 • Timelapse Builds
 • Story-driven Experiences
